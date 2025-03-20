@@ -1,10 +1,2 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<services>
-    <cloudstreamsCollectionKeys serviceName="WmCloudStreams.SoapVS">
-        <servicesKeys>
-            <keyDetails collectionKey="CCS:SF_53_Basic_KMATPUG" connectorServiceName="CCS:SF_53_Basic_KMATPUG"/>
-            <keyDetails collectionKey="CCS:multilevel_connection_queryaccts" connectorServiceName="CCS:multilevel_connection_queryaccts"/>
-            <keyDetails collectionKey="connectionA.connectionB.connectionC:query_ccs" connectorServiceName="connectionA.connectionB.connectionC:query_ccs"/>
-        </servicesKeys>
-    </cloudstreamsCollectionKeys>
-</services>
+<services/>
